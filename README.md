@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JayathriRanasinghe
-- 👀 I’m interested in coding, aerospace and music.
-- 🌱 I’m currently learning computer engineering
+
 
 - 📫 Reach me on facebook tweeter and linkedin
 
