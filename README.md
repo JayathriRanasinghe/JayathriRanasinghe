@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JayathriRanasinghe
 
 
-- 📫 Reach me on facebook tweeter and linkedin
+- 📫 Reach me on facebook twitter and linkedin
 
 <!---
 JayathriRanasinghe/JayathriRanasinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
