@@ -1,8 +1,9 @@
 ## 👋 Hi, I’m Jayathri Ranasinghe
 
 - Computer Engineering Undergraduate from Faculty of Engineering, University of Peradeniya, Sri Lanka
-- Former Full-time Software Engineering Intern @Unicorn Solutions (PVT) Ltd.
-- Now continuing the internship (Part-time) in ML/AI
+- Working on Bioinformatic, Computational Biology related research project
+- Former Full-time Software Engineering Intern @Unicorn Solutions (PVT) Ltd
+- Former Part-time Software Engineering (AI/ML) Intern @Unicorn Solutions (PVT) Ltd
 - Exploring new tech and Gen AI
 
 ### 📫 Reach me on Twitter and Linkedin 👇
