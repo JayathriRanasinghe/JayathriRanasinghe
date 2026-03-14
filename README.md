@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m Jayathri Ranasinghe
 
-- Computer Engineering Undergraduate from Faculty of Engineering, University of Peradeniya, Sri Lanka
+- Software Engineer @ Altrium PVT Ltd
+- Computer Engineering Graduate from Faculty of Engineering, University of Peradeniya, Sri Lanka
 - Working on Bioinformatics, Computational Biology related research project
 - Former Full-time Software Engineering Intern @Unicorn Solutions (PVT) Ltd
 - Former Part-time Software Engineering (AI/ML) Intern @Unicorn Solutions (PVT) Ltd
